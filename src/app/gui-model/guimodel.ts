@@ -251,7 +251,7 @@ export class GuiModel {
                         {
                             "type": "button",
                             "name": "Activity",
-                            "icon": "fa-weixin",
+                            "icon": "far fa-calendar-alt",
                             "color": "green",
                             "page": "Activitypage",
                            },
