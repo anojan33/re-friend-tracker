@@ -424,7 +424,7 @@ export class GuiModel {
                             "color": "green",
                             "width": 2,
                             "form": {
-                                "form": "ActivityForm"
+                                "form": "AddActivityForm"
                             }
                         },
                         {
